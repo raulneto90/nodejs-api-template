@@ -36,6 +36,7 @@ $ yarn build
 $ yarn start
 ```
 
+## Note
 You will need to create an .env file to use Enviroment Variables. There's an .env.example to help you out.
-
+---
 Made with ❤ by Raul Neto. Check my [Linkedin](https://www.linkedin.com/in/raul-neto-777bb988/)
