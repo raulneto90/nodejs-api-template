@@ -30,7 +30,9 @@
       {
         "ts": "never"
       }
-    ]
+    ],
+    "camelcase": "off",
+    "class-methods-use-this": "off"
   },
   "settings": {
     "import/resolver": {
